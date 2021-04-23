@@ -1,0 +1,8 @@
+Concept of scrapping 
+1. use url access like you search using get in chrome (i use this https://www.tokopedia.com/search?&q=handphone&size=100)
+2. define what you will be use for like chrome or etc
+3. declare what class of data do you want
+4. parse the data to csv file data what you declare before
+5. save it to your csv file
+
+Scrapping is process what do you want to get from some website data and parse the data from that website. and you can get the data what do want and extract it to your system. 
